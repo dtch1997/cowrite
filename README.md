@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Moved into the [arsenal](https://github.com/dtch1997/arsenal) monorepo**
+> (2026-07-10) as [`packages/cowrite`](https://github.com/dtch1997/arsenal/tree/main/packages/cowrite),
+> history preserved. Install from there:
+> `pip install "git+https://github.com/dtch1997/arsenal#subdirectory=packages/cowrite"`.
+> This repo is archived; development continues in arsenal.
+
 # cowrite
 
 **Co-write Markdown drafts with an AI, in the browser.**
